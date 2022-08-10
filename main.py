@@ -1,4 +1,6 @@
 # This program prints Hello, world!
 
 print('Hello, world!')
-print(1+21)
+pri_nt(1+21)
+
+
