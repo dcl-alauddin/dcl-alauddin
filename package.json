@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dcl-alauddin/dcl-alauddin#readme",
   "publishConfig": {
-    "dcl-alauddin:registry": "https://npm.pkg.github.com"
+    "@dcl-alauddin:registry": "https://npm.pkg.github.com"
   }
 }
