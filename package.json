@@ -1,0 +1,22 @@
+{
+  "name": "dcl-alauddin",
+  "version": "1.0.0",
+  "description": "Testing github CI/CD to build packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcl-alauddin/dcl-alauddin.git"
+  },
+  "author": "Md Alauddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcl-alauddin/dcl-alauddin/issues"
+  },
+  "homepage": "https://github.com/dcl-alauddin/dcl-alauddin#readme",
+  "publishConfig": {
+    "@dcl-alauddin:registry": "https://npm.pkg.github.com"
+  }
+}
