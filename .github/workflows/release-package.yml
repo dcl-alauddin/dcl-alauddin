@@ -1,7 +1,6 @@
 name: Node.js Package
 
 on: [push, pull_request]
-on:
   release:
     types: [created]
 
